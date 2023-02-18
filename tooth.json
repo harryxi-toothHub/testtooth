@@ -1,0 +1,16 @@
+{
+    "format_version": 1,
+    "tooth": "test-----",
+    "version": "1.0.0",
+    "dependencies": {},
+    "commands":[
+        {
+            "type": "install",
+            "commands": [
+                ".\\.lip\\tools\\bdsdown\\bdsdown.exe 1.19.62.01"
+            ],
+            "GOOS": "windows"
+        }
+    ]
+
+}
