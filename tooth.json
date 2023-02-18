@@ -1,6 +1,6 @@
 {
     "format_version": 1,
-    "tooth": "test-----",
+    "tooth": "github.com/harryxi-toothHub/testtooth",
     "version": "1.0.0",
     "dependencies": {},
     "commands":[
